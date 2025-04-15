@@ -39,7 +39,7 @@ printf("nome da cidade: %s\n, cidade");
 printf("população: %d\n, população");
 printf("area: %f\n, área");
 print("PIB: %f\n, PIB");
-print("pontosturísticos: %d\n, pontosturísticos);
+print("pontosturísticos: %d\n, pontosturísticos");
 
 return 0
 
