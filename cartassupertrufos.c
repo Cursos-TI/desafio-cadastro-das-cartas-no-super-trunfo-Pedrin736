@@ -24,7 +24,7 @@ printf("Digite o tamanho da população: \n");
 scanf("%d", &população);
 
 printf("Digite a àrea da cidade: \n");
-scanf("f", &àrea);
+scanf("%f", &àrea);
 
 printf("Digite o PIB da cidade: \n"); 
 scanf("%f", &PIB);
