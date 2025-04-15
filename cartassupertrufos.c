@@ -4,7 +4,7 @@
 
 int main(){
 char estado[20];
-char código[30];
+char codigo[30];
 char cidade[30];
 int população;
 float area;
