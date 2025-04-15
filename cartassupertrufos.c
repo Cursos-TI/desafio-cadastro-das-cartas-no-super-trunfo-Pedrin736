@@ -6,7 +6,7 @@ int main(){
 char estado[20];
 char codigo[30];
 char cidade[30];
-int população;
+int populacao;
 float area;
 float PIB;
 int pontosturisticos;
@@ -20,26 +20,26 @@ scanf("%s", &código);
 printf("Digite o nome da cidade: \n");
 scanf("%s", &cidade);
 
-printf("Digite o tamanho da população: \n");
+printf("Digite o tamanho da populacao: \n");
 scanf("%d", &população);
 
-printf("Digite a àrea da cidade: \n");
+printf("Digite a area da cidade: \n");
 scanf("%f", &area);
 
 printf("Digite o PIB da cidade: \n"); 
 scanf("%f", &PIB);
 
-printf("Digite os números dos pontosturísticos: \n");
+printf("Digite os números dos pontosturisticos: \n");
 scanf("%d", &pontosturisticos);
 
 printf("carta: 01\n, carta");
 printf("estado: %S\n, estado");
 printf("código: %s\n, código");
 printf("nome da cidade: %s\n, cidade");
-printf("população: %d\n, população");
-printf("area: %f\n, área");
+printf("população: %d\n, populacao");
+printf("area: %f\n, area");
 print("PIB: %f\n, PIB");
-print("pontosturísticos: %d\n, pontosturísticos");
+print("pontosturisticos: %d\n, pontosturisticos");
 
 return 0
 
