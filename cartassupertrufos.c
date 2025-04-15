@@ -12,7 +12,7 @@ float PIB;
 int pontosturisticos;
 
 printf("Digite o nome do estado: \n");
-scanf("%s", &estado)
+scanf("%s", &estado);
 
 printf("Digite o código da carta: \n");
 scanf("%s", &código);
