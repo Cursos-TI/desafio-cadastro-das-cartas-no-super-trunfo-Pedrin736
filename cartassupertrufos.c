@@ -3,13 +3,13 @@
 //carta1
 
 int main(){
-char estado[50];
-char código da carta[50];
-char nome da cidade[50];
+char estado[20];
+char código[40];
+char cidade[30];
 int população;
 float àrea;
 float PIb;
-int Números de pontosturísticos;
+int pontosturísticos;
 
 printf("Digite o nome do estado: \n");
 scanf("%s", &estado)
@@ -40,5 +40,7 @@ printf("população: %d\n, população");
 printf("area: %f\n, área");
 print("PIB: %f\n, PIB");
 print("pontosturísticos: %d\n, pontosturísticos);
+
+return 0
 
 }
