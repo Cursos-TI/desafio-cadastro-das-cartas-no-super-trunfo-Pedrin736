@@ -3,7 +3,7 @@
 //carta1
 
 int main(){
-char estado[20];
+char estado;
 char codigo[30];
 char cidade[30];
 int populacao;
@@ -14,8 +14,8 @@ int pontosturisticos;
 printf("Digite o nome do estado: \n");
 scanf("%s", &estado);
 
-printf("Digite o código da carta: \n");
-scanf("%s", &código);
+printf("Digite o codigo da carta: \n");
+scanf("%s", &codigo);
 
 printf("Digite o nome da cidade: \n");
 scanf("%s", &cidade);
