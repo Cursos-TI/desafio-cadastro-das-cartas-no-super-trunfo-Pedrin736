@@ -30,7 +30,7 @@ printf("Digite o PIB da cidade: \n");
 scanf("%f", &PIB);
 
 printf("Digite os números dos pontosturísticos: n\");
-scanf("%d", &Números de pontos turísticos);
+scanf("%d", &números de pontos turísticos);
 
 printf("carta: 01\n, carta");
 printf("estado: %S\n, estado");
