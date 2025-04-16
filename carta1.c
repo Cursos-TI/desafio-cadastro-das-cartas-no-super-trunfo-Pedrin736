@@ -40,14 +40,7 @@ print("PIB: %f", PIB);
 print("pontos_turisticos: %d\n", pontos_turisticos);
 
 
-
-
-
- 
-
-
-
-
+return 0
 
 
 
