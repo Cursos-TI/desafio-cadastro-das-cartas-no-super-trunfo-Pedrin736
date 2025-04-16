@@ -3,6 +3,7 @@
 //carta1
 
 int main(){
+char estado[4];
 char codigo[4];
 char cidade[30];
 int habitantes;
