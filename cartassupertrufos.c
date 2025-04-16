@@ -3,10 +3,9 @@
 //carta1
 
 int main(){
-char estado;
-char codigo[30];
+char codigo[4];
 char cidade[30];
-int populacao;
+int habitantes;
 float area;
 float PIB;
 int pontosturisticos;
