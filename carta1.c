@@ -14,10 +14,10 @@ printf("Digite o estado: \n");
 scanf("%c", &estado);
 
 printf("Digite o codigo: \n");
-scanf("%s", &codigo);
+scanf("%c", &codigo);
 
 printf("Digite a cidade: \n");
-scanf("%s", &cidade);
+scanf("%c", &cidade);
 
 printf("Digite a populaçao: \n");
 scanf("%d", &populacao);
