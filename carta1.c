@@ -10,7 +10,7 @@ float area;      // 2.000.000 km²
 float PIB;       // 50.000.000 bilhões
 int pontos_turisticos; // 50
 
-print("Digite o estado: \n");
+printf("Digite o estado: \n");
 scanf("%s", &estado);
 
 printf("Digite o codigo: \n");
