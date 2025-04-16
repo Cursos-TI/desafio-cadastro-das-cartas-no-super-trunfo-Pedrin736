@@ -31,13 +31,13 @@ scanf("%f", &PIB);
 print("Digite os pontos_turisticos: \n");
 scanf("%d", &pontos_turisticos);
 
-print("estado: %s\n", estado);
+printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
 printf("cidade: %s\n", cidade);
-print("populaçao: %d\n", populacao);
-print("area: %f\n", area);
-print("PIB: %f", PIB);
-print("pontos_turisticos: %d\n", pontos_turisticos);
+printf("populaçao: %d\n", populacao);
+printf("area: %f\n", area);
+printf("PIB: %f", PIB);
+printf("pontos_turisticos: %d\n", pontos_turisticos);
 
 
 return 0
