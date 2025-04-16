@@ -11,7 +11,7 @@ float PIB;       // 50.000.000 bilhões
 int pontos_turisticos; // 50
 
 printf("Digite o estado: \n");
-scanf("%s", &estado);
+scanf("%c", &estado);
 
 printf("Digite o codigo: \n");
 scanf("%s", &codigo);
