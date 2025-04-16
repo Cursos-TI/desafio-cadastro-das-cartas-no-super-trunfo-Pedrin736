@@ -41,6 +41,6 @@ printf("area: %f\n, area");
 print("PIB: %f\n, PIB");
 print("pontosturisticos: %d\n, pontosturisticos");
 
-return 0
+
 
 }
