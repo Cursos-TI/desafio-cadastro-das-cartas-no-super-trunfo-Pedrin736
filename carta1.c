@@ -2,7 +2,7 @@
 
 int main(){
     //carta1
-char estado[10]; //A
+char estado //A
 char codigo[20]; //A01
 char cidade[20]; //Riodejaneiro
 int populacao;   // 200.000 
