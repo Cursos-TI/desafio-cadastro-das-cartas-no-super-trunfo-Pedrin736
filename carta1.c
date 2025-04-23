@@ -40,7 +40,7 @@ printf("PIB: %f\n", PIB);
 printf("pontos_turisticos: %d\n", pontos_turisticos1);
 
 
-return 0
+
 
 
 
