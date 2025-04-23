@@ -16,25 +16,25 @@ scanf("%s", &estado);
 printf("Digite o codigo: \n");
 scanf("%s", &codigo);
 
-printf("Digite a cidade: \n");
+printf("Digite o nomeCidade: \n");
 scanf("%s", &nomeCidade);
 
-printf("Digite a populaçao: \n");
+printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
 
-printf("Digite a area: \n");
+printf("Digite a areaTotal: \n");
 scanf("%f", &areaTotal);
 
 printf("Digite o PIB: \n");
 scanf("%f", &PIB);
 
 printf("Digite os pontos_turisticos1: \n");
-scanf("%d", &pontos_turisticos);
+scanf("%d", &pontos_turisticos1);
 
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
 printf("cidade: %s\n", nomeCidade);
-printf("populaçao: %d\n", numeros_habitantes);
+printf("populaçao: %d\n", numero_habitantes);
 printf("area: %f\n", areaTotal);
 printf("PIB: %f\n", PIB);
 printf("pontos_turisticos: %d\n", pontos_turisticos1);
