@@ -3,7 +3,7 @@
 int main(){
     //carta1
 char estado; //A
-char codigo[20]; //A01
+char codigo[4]; //A01
 char nomeCidade[50]; //Riodejaneiro
 int numero_habitantes; // 200.000 
 float areaTotal; // 2.000.000 km²
@@ -29,7 +29,7 @@ printf("Digite o PIB1: \n");
 scanf("%lf", &PIB);
 
 printf("Digite os pontos_turisticos1: \n");
-scanf("%d", &pontos_turisticos1);
+scanf("%d", &pontos_turisticos);
 
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
