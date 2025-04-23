@@ -6,7 +6,7 @@ char estado; //A
 char codigo[50]; //A01
 char nomeCidade[50]; //Riodejaneiro
 int numero_habitantes; // 200.000 
-float areaTotal; // 2.000.000 km²
+float area_Total; // 2.000.000 km²
 float PIB; // 50.000.000 bilhões
 int pontos_turisticos1; // 50
 
@@ -23,7 +23,7 @@ printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
 
 printf("Digite a areaTotal: \n");
-scanf("%f", &areaTotal);
+scanf("%f", &area_Total);
 
 printf("Digite o PIB: \n");
 scanf("%f", &PIB);
