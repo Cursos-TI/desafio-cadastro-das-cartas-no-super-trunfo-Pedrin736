@@ -23,7 +23,7 @@ printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
 
 printf("Digite a area_Total: \n");
-scanf("%f", &area_Total);
+scanf("%f", &areaTotal);
 
 printf("Digite o PIB1: \n");
 scanf("%f", &PIB);
