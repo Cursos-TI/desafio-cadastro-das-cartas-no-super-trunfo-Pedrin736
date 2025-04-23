@@ -22,7 +22,7 @@ scanf("%s", &nomeCidade);
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
 
-printf("Digite a areaTotal: \n");
+printf("Digite a area_Total: \n");
 scanf("%f", &area_Total);
 
 printf("Digite o PIB: \n");
@@ -35,7 +35,7 @@ printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
 printf("cidade: %s\n", nomeCidade);
 printf("populaçao: %d\n", numero_habitantes);
-printf("area: %f\n", areaTotal);
+printf("area: %f\n", area_Total);
 printf("PIB: %f\n", PIB);
 printf("pontos_turisticos: %d\n", pontos_turisticos1);
 
