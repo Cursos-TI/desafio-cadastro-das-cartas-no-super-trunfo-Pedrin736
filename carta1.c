@@ -14,7 +14,7 @@ printf("Digite o estado: \n");
 scanf("%s", &estado);
 
 printf("Digite o codigo: \n");
-scanf("%s", &codigo);
+scanf("%c", &codigo);
 
 printf("Digite o nomeCidade: \n");
 scanf("%s", &nomeCidade);
