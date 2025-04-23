@@ -29,7 +29,7 @@ printf("Digite o PIB1: \n");
 scanf("%lf", &PIB);
 
 printf("Digite os pontos_turisticos1: \n");
-scanf("%d", &pontos_turisticos);
+scanf("%d", &pontos_turisticos1);
 
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
