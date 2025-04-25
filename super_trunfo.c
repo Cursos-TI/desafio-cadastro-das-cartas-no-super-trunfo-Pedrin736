@@ -11,22 +11,22 @@ double pib; // 50.000.000 bilhões
 int pontos_turisticos1; // 50
 
 printf("Digite o estado: \n");
-scanf("%s", &estado);
+scanf(" %s", estado);
 
 printf("Digite o codigo: \n");
-scanf("%s", &codigo);
+scanf(" %s", codigo);
 
 printf("Digite o nomeCidade: \n");
-scanf("%s", &nomeCidade);
+scanf(" %s", nomeCidade);
 
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
 
 printf("Digite a areaTotal: \n");
-scanf("%f", &areaTotal);
+scanf(" %f", &areaTotal);
 
 printf("Digite o pib: \n");
-scanf("%f", &pib);
+scanf(" %f", &pib);
 
 printf("Digite os pontos_turisticos1: \n");
 scanf("%d", &pontos_turisticos1);
