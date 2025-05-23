@@ -5,7 +5,7 @@ int main(){
 char estado [10]; //A
 char codigo [7]; //A01
 char nomeCidade[50]; //Riodejaneiro
-int numero_habitantes; //200.000 
+float numero_habitantes; //200.000 
 float areaTotal; //2.000.000 km²
 float pib; //50.000.000
 int pontos_turisticos1; //50
