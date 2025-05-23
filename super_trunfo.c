@@ -3,7 +3,7 @@
 int main(){
     //carta1
 char estado;][10] //A
-char codigo[4]; //A01
+char codigo[6]; //A01
 char nomeCidade[50]; //Riodejaneiro
 int numero_habitantes; // 200.000 
 float areaTotal; // 2.000.000 km²
