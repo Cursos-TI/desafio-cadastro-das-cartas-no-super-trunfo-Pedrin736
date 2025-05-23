@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    //carta1
-char estado [10]; //A
+    // variaveis carta1
+char estado [10]; //Bahia
 char codigo [7]; //A01
-char nomeCidade[50]; //Riodejaneiro
+char nomeCidade[50]; //Salvador
 int numero_habitantes; //200000 
 float areaTotal, pib;
 int pontos_turisticos1; //50 pontos_turisticos
@@ -39,8 +39,7 @@ printf("pib: %f\n", pib);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
 
-
-
+    
 
 
 }
