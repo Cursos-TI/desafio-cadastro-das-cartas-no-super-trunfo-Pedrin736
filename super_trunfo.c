@@ -20,7 +20,7 @@ printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
 
 printf("Digite o numero_habitantes: \n");
-scanf("%d", &numero_habitantes);
+scanf("%f", &numero_habitantes);
 
 printf("Digite a areaTotal: \n");
 scanf("%f", &areaTotal);
