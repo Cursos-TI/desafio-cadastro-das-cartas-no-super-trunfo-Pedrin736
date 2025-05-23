@@ -16,10 +16,10 @@ printf("Digite o codigo: \n");
 scanf("%s", codigo);
 
 printf("Digite o nomeCidade: \n");
-scanf("%d", nomeCidade);
+scanf("%s", nomeCidade);
 
 printf("Digite o numero_habitantes: \n");
-scanf("%f", &numero_habitantes);
+scanf("%d", &numero_habitantes);
 
 printf("Digite a areaTotal: \n");
 scanf("%f", &areaTotal);
