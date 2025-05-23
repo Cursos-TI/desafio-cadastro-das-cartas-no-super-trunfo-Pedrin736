@@ -5,7 +5,7 @@ int main(){
 char estado [10]; //A
 char codigo [7]; //A01
 char nomeCidade[50]; //Riodejaneiro
-float numero_habitantes; //200.000 
+int numero_habitantes; //200000 
 float areaTotal, pib;
 int pontos_turisticos1; //50 pontos_turisticos
 
@@ -16,7 +16,7 @@ printf("Digite o codigo: \n");
 scanf("%s", codigo);
 
 printf("Digite o nomeCidade: \n");
-scanf("%s", nomeCidade);
+scanf("%d", nomeCidade);
 
 printf("Digite o numero_habitantes: \n");
 scanf("%f", &numero_habitantes);
@@ -33,7 +33,7 @@ scanf("%d", &pontos_turisticos1);
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
 printf("cidade: %s\n", nomeCidade);
-printf("numeros_habitantes: %f\n", numero_habitantes);
+printf("numeros_habitantes: %d\n", numero_habitantes);
 printf("areaTotal: %f\n", areaTotal);
 printf("pib: %f\n", pib);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
