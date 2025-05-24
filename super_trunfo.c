@@ -15,7 +15,6 @@ scanf("%s", estado);
 printf("Digite o codigo: \n");
 scanf("%s", codigo);
 
-
 printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
  
@@ -31,11 +30,9 @@ printf("Digite o pib1: \n");
 scanf("%f", &pib1);
 while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
-
 printf("Digite os pontos_turisticos1: \n");
 scanf("%d", &pontos_turisticos1);
 while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
-
 
 
 printf("estado: %s\n", estado);
