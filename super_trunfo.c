@@ -7,16 +7,20 @@ char codigo [7]; //A01
 char nomeCidade[50]; //Salvador
 int numero_habitantes; //200000 
 float areaTotal, pib1;
-int pontos_turisticos1; //50 pontos_turisticos
+int pontos_turisticos1
+int c; // variavel para limpar o buffer
 
 printf("Digite o estado: \n");
 scanf("%s", estado);
+while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o codigo: \n");
 scanf("%s", codigo);
+while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
+while ((c = getchar()) != '\n' && c != EOF);
  
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
