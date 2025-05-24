@@ -7,7 +7,7 @@ char codigo [7]; //A01
 char nomeCidade[50]; //Salvador
 int numero_habitantes; //200000 
 float areaTotal, pib1;
-int pontos_turisticos1
+int pontos_turisticos1;
 int c; // variavel para limpar o buffer
 
 printf("Digite o estado: \n");
