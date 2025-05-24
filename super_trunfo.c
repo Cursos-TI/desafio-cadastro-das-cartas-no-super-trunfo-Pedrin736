@@ -18,8 +18,7 @@ scanf("%s", codigo);
 
 printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
- while ((c = getchar()) != '\n' && c != EOF);
-
+ 
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
  while ((c = getchar()) != '\n' && c != EOF);
