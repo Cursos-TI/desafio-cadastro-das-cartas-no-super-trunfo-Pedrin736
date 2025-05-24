@@ -12,10 +12,9 @@ int pontos_turisticos1; //50 pontos_turisticos
 printf("Digite o estado: \n");
 scanf("%s", estado);
 
-
 printf("Digite o codigo: \n");
 scanf("%s", codigo);
-while ((c = getchar()) != '\n' && c != EOF);
+
 
 printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
