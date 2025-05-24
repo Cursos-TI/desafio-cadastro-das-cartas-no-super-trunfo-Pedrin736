@@ -11,24 +11,34 @@ int pontos_turisticos1; //50 pontos_turisticos
 
 printf("Digite o estado: \n");
 scanf("%s", estado);
+while ((c = getchar()) != '\n' && c != EOF);
+
 
 printf("Digite o codigo: \n");
 scanf("%s", codigo);
+while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade: \n");
 scanf("%s", nomeCidade);
+ while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
+ while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite a areaTotal: \n");
 scanf("%f", &areaTotal);
+ while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 printf("Digite o pib1: \n");
 scanf("%f", &pib1);
+while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+
 
 printf("Digite os pontos_turisticos1: \n");
 scanf("%d", &pontos_turisticos1);
+  while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+
 
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
