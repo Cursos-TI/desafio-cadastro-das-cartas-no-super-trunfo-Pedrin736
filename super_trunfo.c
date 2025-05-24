@@ -28,7 +28,7 @@ scanf("%d", &numero_habitantes);
 
 printf("Digite a areaTotal: \n");
 scanf("%f", &areaTotal);
- while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 printf("Digite o pib1: \n");
 scanf("%f", &pib1);
@@ -37,7 +37,8 @@ while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 printf("Digite os pontos_turisticos1: \n");
 scanf("%d", &pontos_turisticos1);
-  while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+
 
 
 printf("estado: %s\n", estado);
