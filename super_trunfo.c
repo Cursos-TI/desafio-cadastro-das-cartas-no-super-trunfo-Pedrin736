@@ -40,7 +40,7 @@ printf("codigo: %s\n", codigo);
 printf("cidade: %s\n", nomeCidade);
 printf("numeros_habitantes: %d\n", numero_habitantes);
 printf("areaTotal: %2f\n", areaTotal);
-printf("pib: %2f\n", pib1);
+printf("pib1: %2f\n", pib1);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
 
