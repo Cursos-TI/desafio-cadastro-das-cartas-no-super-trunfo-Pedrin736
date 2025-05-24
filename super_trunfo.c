@@ -14,6 +14,8 @@ scanf("%s", estado);
 while ((c = getchar()) != '\n' && c != EOF);
 
 
+
+
 printf("Digite o codigo: \n");
 scanf("%s", codigo);
 while ((c = getchar()) != '\n' && c != EOF);
