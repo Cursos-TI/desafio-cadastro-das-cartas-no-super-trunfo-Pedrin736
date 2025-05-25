@@ -86,7 +86,7 @@ printf("nomeCidade2: %s\n", nomeCidade2);
 printf("numero_habitantes2: %s\n", numero_habitantes2);
 printf("areaTotal2: %f\n", areaTotal2);
 printf("pib2: %f\n", pib2);
-printf("pontos_turisticos2: %d\n", pontos_turisticos);
+printf("pontos_turisticos2: %d\n", pontos_turisticos2);
 
 
 
