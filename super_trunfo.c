@@ -48,7 +48,7 @@ printf("pib1: %2f\n", pib1);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variavel carta 2
- char estado [15]; //Amazonas
+ char estado [10]; //Amazonas
  char codigo [7]; // B02
  char nomeCidade; // Manaus
  int numeros_habitantes; // 40000
