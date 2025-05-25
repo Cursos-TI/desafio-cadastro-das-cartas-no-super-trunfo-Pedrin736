@@ -11,32 +11,32 @@ int pontos_turisticos1;
 int c; // variavel para limpar o buffer
 
 printf("Digite o estado: \n");
-scanf("%s", estado);
-while ((c = getchar()) != '\n' && c != EOF);
+ scanf("%s", estado);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o codigo: \n");
-scanf("%s", codigo);
-while ((c = getchar()) != '\n' && c != EOF);
+ scanf("%s", codigo);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade: \n");
-scanf("%s", nomeCidade);
-while ((c = getchar()) != '\n' && c != EOF);
+ scanf("%s", nomeCidade);
+  while ((c = getchar()) != '\n' && c != EOF);
  
 printf("Digite o numero_habitantes: \n");
-scanf("%d", &numero_habitantes);
- while ((c = getchar()) != '\n' && c != EOF);
+ scanf("%d", &numero_habitantes);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite a areaTotal: \n");
-scanf("%f", &areaTotal);
-while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+ scanf("%f", &areaTotal);
+  while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 printf("Digite o pib1: \n");
-scanf("%f", &pib1);
-while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+ scanf("%f", &pib1);
+  while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 printf("Digite os pontos_turisticos1: \n");
-scanf("%d", &pontos_turisticos1);
-while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
+ scanf("%d", &pontos_turisticos1);
+  while ((c = getchar()) != '\n' && c != EOF); // LIMPA O BUFFER
 
 
 printf("estado: %s\n", estado);
@@ -55,28 +55,35 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  int numeros_habitantes; // 40000
  float areaTotal2, pib2;
  int  pontos_turisticos; // 23
- 
+ int c;
 
 printf("Digite o estado: \n");
-scanf("%s", &estado);
+ scanf("%s", &estado);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o codigo: \n");
-scanf("%s", &codigo);
+ scanf("%s", &codigo);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade: \n");
-scanf("%s", &nomeCidade);
+ scanf("%s", &nomeCidade);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o numero_habitantes: \n");
-scanf("%d", &numero_habitantes);
+ scanf("%d", &numero_habitantes);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite a areaTotal2: \n");
-scanf("%f", &areaTotal2);
+ scanf("%f", &areaTotal2);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o pib2: \n");
-scanf("%f", &pib2);
+ scanf("%f", &pib2);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite os pontos_turisticos \n");
-scanf("%d", &pontos_turisticos);
+ scanf("%d", &pontos_turisticos);
+  while ((c = getchar()) != '\n' && c != EOF);
 
 
 printf("estado: %s\n", estado);
