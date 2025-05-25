@@ -89,8 +89,7 @@ printf("pib2: %f\n", pib2);
 printf("pontos_turisticos2: %d\n", pontos_turisticos2);
 
 
-
-    
+return 0
 
 
 }
