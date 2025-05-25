@@ -57,9 +57,8 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  int  pontos_turisticos; // 23
  
 
-
 printf("Digite o estado: \n");
-scanf("%s-", &estado);
+scanf("%s", &estado);
 
 printf("Digite o codigo: \n");
 scanf("%s", &codigo);
