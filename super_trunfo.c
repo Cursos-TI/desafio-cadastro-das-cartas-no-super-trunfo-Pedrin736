@@ -54,7 +54,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  char nomeCidade2; // Paracambi
  int numeros_habitantes; // 40000
  float areaTotal2, pib2;
- int  pontos_turisticos2; // 23
+ int  pontos_turisticos; // 23
  
 
 
