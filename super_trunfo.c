@@ -48,9 +48,9 @@ printf("pib1: %2f\n", pib1);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variavel carta 2
- char estado [15]; //Riodejaneiro
+ char estado [15]; //Amazonas
  char codigo [7]; // B02
- char nomeCidade2; // Paracambi
+ char nomeCidade; // Manaus
  int numeros_habitantes; // 40000
  float areaTotal2, pib2;
  int  pontos_turisticos; // 23
@@ -62,8 +62,8 @@ scanf("%s", &estado);
 printf("Digite o codigo: \n");
 scanf("%s", &codigo);
 
-printf("Digite o nomeCidade2: \n");
-scanf("%s", &nomeCidade2);
+printf("Digite o nomeCidade: \n");
+scanf("%s", &nomeCidade);
 
 printf("Digite o numero_habitantes: \n");
 scanf("%d", &numero_habitantes);
@@ -80,7 +80,7 @@ scanf("%d", &pontos_turisticos);
 
 printf("estado: %s\n", estado);
 printf("codigo: %s\n", codigo);
-printf("nomeCidade: %s\n", nomeCidade2);
+printf("nomeCidade: %s\n", nomeCidade);
 printf("numero_habitantes: %d\n", numero_habitantes);
 printf("areaTotal2: %f\n", areaTotal2);
 printf("pib2: %f\n", pib2);
