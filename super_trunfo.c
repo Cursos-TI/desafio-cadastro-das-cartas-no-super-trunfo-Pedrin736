@@ -49,13 +49,13 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variaveis carta 2
 
- char estado [10]; //Amazonas
+ char estado [10]; //Riodejaneiro
  char codigo [7]; // B02
  char nomeCidade; // Manaus
  int numeros_habitantes; // 40000
  float areaTotal2, pib2;
  int  pontos_turisticos; // 23
- int c;
+ int c; // variavel para limpar o buffer
 
 printf("Digite o estado: \n");
  scanf("%s", &estado);
