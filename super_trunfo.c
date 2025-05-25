@@ -59,7 +59,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
 
 printf("Digite o estado2: \n");
-scanf("%s", &estado2);
+scanf("%s-", &estado2);
 
 printf("Digite o codigo2: \n");
 scanf("%s", &codigo2);
