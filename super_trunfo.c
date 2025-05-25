@@ -47,6 +47,48 @@ printf("areaTotal: %2f\n", areaTotal);
 printf("pib1: %2f\n", pib1);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
+    // Variavel carta 2
+
+ char estado2 [10]; //Riodejaneiro
+ char codigo2 [7]; // B02
+ char nomeCidade2; // Paracambi
+ int numeros_habitantes2; // 40000
+ float areaTotal2, pib2;
+ int   pontos_turisticos2; // 23
+ int c; //  variavel para limpar o buffer
+
+
+printf("Digite o estado2: \n");
+scanf("%s", &estado2);
+
+printf("Digite o codigo2: \n");
+scanf("%s", &codigo2);
+
+printf("Digite o nomeCidade2: \n");
+scanf("%s", &nomeCidade2);
+
+printf("Digite o numero_habitantes2: \n");
+scanf("%d", &numero_habitantes2);
+
+printf("Digite a areaTotal2: \n");
+scanf("%f", &areaTotal2);
+
+printf("Digite o pib2: \n");
+scanf("%f", &pib2);
+
+printf("Digite os pontos_turisticos2 \n");
+scanf("%d", &pontos_turisticos);
+
+
+printf("estado2: %s\n", estado);
+printf("codigo2: %s\n", codigo);
+printf("nomeCidade2: %s\n", nomeCidade2);
+printf("numero_habitantes2: %s\n", numero_habitantes2);
+printf("areaTotal2: %f\n", areaTotal2);
+printf("pib2: %f\n", pib2);
+printf("pontos_turisticos2: %d\n", pontos_turisticos);
+
+
 
     
 
