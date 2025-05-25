@@ -80,8 +80,8 @@ printf("Digite os pontos_turisticos \n");
 scanf("%d", &pontos_turisticos);
 
 
-printf("estado2: %s\n", estado);
-printf("codigo2: %s\n", codigo);
+printf("estado2: %s\n", estado2);
+printf("codigo2: %s\n", codigo2);
 printf("nomeCidade2: %s\n", nomeCidade2);
 printf("numero_habitantes: %s\n", numero_habitantes);
 printf("areaTotal2: %f\n", areaTotal2);
