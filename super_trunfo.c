@@ -49,7 +49,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variaveis carta 2
 
- char estado2 [10]; //Riodejaneiro
+ char estado2 [15]; //Riodejaneiro
  char codigo2 [7]; // B02
  char nomeCidade2; // Queimados
  int numeros_habitantes2; // 40000
