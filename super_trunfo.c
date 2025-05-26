@@ -48,7 +48,7 @@ printf("pib1: %2f\n", pib1);
 printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variaveis carta 2
-
+       "\n"
  char estado2 [15]; //Riodejaneiro
  char codigo2 [7]; // B02
  char nomeCidade2 [20]; // Queimados
