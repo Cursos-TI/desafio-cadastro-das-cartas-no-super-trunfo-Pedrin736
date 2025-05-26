@@ -66,7 +66,7 @@ printf("Digite o codigo2: \n");
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade2: \n");
- scanf("%s", nomeCidade2);
+ scanf("%s", &nomeCidade2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o numero_habitantes2: \n");
