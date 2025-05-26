@@ -56,7 +56,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  float areaTotal2, pib2;
  int  pontos_turisticos2; // 23
  int c2; // variavel para limpar o buffer
-
+ 
 printf("Digite o estado2: \n");
  scanf("%s", estado2);
   while ((c = getchar()) != '\n' && c != EOF);
