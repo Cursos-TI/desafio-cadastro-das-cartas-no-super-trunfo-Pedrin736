@@ -51,7 +51,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
  char estado2 [15]; //Riodejaneiro
  char codigo2 [7]; // B02
- char nomeCidade2; // Queimados
+ char nomeCidade2 [20]; // Queimados
  int numero_habitantes2; // 40000
  float areaTotal2, pib2;
  int  pontos_turisticos2; // 23
