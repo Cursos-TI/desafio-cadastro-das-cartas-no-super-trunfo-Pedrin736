@@ -49,7 +49,7 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
 
     // Variaveis carta 2
 
- char estado [10]; //Riodejaneiro
+ char estado2 [10]; //Riodejaneiro
  char codigo [7]; // B02
  char nomeCidade; // Queimados
  int numeros_habitantes; // 40000
@@ -57,8 +57,8 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  int  pontos_turisticos; // 23
  int c; // variavel para limpar o buffer
 
-printf("Digite o estado: \n");
- scanf("%s", &estado);
+printf("Digite o estado2: \n");
+ scanf("%s", &estado2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o codigo: \n");
@@ -86,7 +86,7 @@ printf("Digite os pontos_turisticos \n");
   while ((c = getchar()) != '\n' && c != EOF);
 
 
-printf("estado: %s\n", estado);
+printf("estado2: %s\n", estado2);
 printf("codigo: %s\n", codigo);
 printf("nomeCidade: %s\n", nomeCidade);
 printf("numero_habitantes: %d\n", numero_habitantes);
