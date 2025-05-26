@@ -58,15 +58,15 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
  int c2; // variavel para limpar o buffer
 
 printf("Digite o estado2: \n");
- scanf("%s", &estado2);
+ scanf("%s", estado2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o codigo2: \n");
- scanf("%s", &codigo2);
+ scanf("%s", codigo2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o nomeCidade2: \n");
- scanf("%s", &nomeCidade2);
+ scanf("%s", nomeCidade2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite o numero_habitantes2: \n");
