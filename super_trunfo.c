@@ -50,27 +50,27 @@ printf("pontos_turisticos1: %d\n", pontos_turisticos1);
     // Variaveis carta 2
 
  char estado2 [10]; //Riodejaneiro
- char codigo [7]; // B02
- char nomeCidade; // Queimados
- int numeros_habitantes; // 40000
+ char codigo2 [7]; // B02
+ char nomeCidade2; // Queimados
+ int numeros_habitantes2; // 40000
  float areaTotal2, pib2;
- int  pontos_turisticos; // 23
+ int  pontos_turisticos2; // 23
  int c; // variavel para limpar o buffer
 
 printf("Digite o estado2: \n");
  scanf("%s", &estado2);
   while ((c = getchar()) != '\n' && c != EOF);
 
-printf("Digite o codigo: \n");
- scanf("%s", &codigo);
+printf("Digite o codigo2: \n");
+ scanf("%s", &codigo2);
   while ((c = getchar()) != '\n' && c != EOF);
 
-printf("Digite o nomeCidade: \n");
- scanf("%s", &nomeCidade);
+printf("Digite o nomeCidade2: \n");
+ scanf("%s", &nomeCidade2);
   while ((c = getchar()) != '\n' && c != EOF);
 
-printf("Digite o numero_habitantes: \n");
- scanf("%d", &numero_habitantes);
+printf("Digite o numero_habitantes2: \n");
+ scanf("%d", &numero_habitantes2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 printf("Digite a areaTotal2: \n");
@@ -81,18 +81,18 @@ printf("Digite o pib2: \n");
  scanf("%f", &pib2);
   while ((c = getchar()) != '\n' && c != EOF);
 
-printf("Digite os pontos_turisticos \n");
- scanf("%d", &pontos_turisticos);
+printf("Digite os pontos_turisticos2 \n");
+ scanf("%d", &pontos_turisticos2);
   while ((c = getchar()) != '\n' && c != EOF);
 
 
 printf("estado2: %s\n", estado2);
-printf("codigo: %s\n", codigo);
-printf("nomeCidade: %s\n", nomeCidade);
-printf("numero_habitantes: %d\n", numero_habitantes);
+printf("codigo2: %s\n", codigo2);
+printf("nomeCidade2: %s\n", nomeCidade2);
+printf("numero_habitantes2: %d\n", numero_habitantes2);
 printf("areaTotal2: %f\n", areaTotal2);
 printf("pib2: %f\n", pib2);
-printf("pontos_turisticos: %d\n", pontos_turisticos);
+printf("pontos_turisticos2: %d\n", pontos_turisticos2);
 
 
 
