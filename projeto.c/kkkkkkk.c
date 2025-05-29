@@ -27,7 +27,7 @@
  resultado *= 5;
   printf("Resultado: %d\n", resultado);
 
-  // resultado = / 2;
+  // resultado = /2;
  resultado /= 2;
   printf("Resultado: %d\n", resultado);
   
