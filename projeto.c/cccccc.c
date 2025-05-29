@@ -11,7 +11,7 @@
  Pós-Decremento a--
  */
  
- int numero = 1;
+ int numero1 = 1;
 
   printf("Antes incremento: %d\n", numero1);
   numero1++;
