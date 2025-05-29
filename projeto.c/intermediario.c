@@ -8,8 +8,8 @@
      Divisão (/)
   */
 
-    int = numero1, numero2;
-    int = soma, subtracao, multiplicacao, divisao;
+    int  numero1, numero2;
+    int  soma, subtracao, multiplicacao, divisao;
 
     printf("Entre com o numero 1: \n");
     scanf("%d", &numero1);
