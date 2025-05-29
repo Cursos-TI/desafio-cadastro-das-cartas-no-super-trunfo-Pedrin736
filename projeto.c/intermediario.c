@@ -2,7 +2,7 @@
 
  int main(){
 
-    int= numero1, numero2;
+    int = numero1, numero2;
     int = soma, subtracao, multiplicacao, divisao;
 
     printf("Entre com o numero 1: \n");
@@ -22,7 +22,7 @@
     divisao = numero1 / numero2;
 
 
-    printf("A soma é: %d\n", soma);
-    printf("A subtracao é: %d\n", subtracao);
-    printf("A multiplicacao é: %d\n", multiplicacao);
- }  printf("A divisao é: %d\n", divisao);
+    printf("A soma e: %d\n", soma);
+    printf("A subtracao e: %d\n", subtracao);
+    printf("A multiplicacao e: %d\n", multiplicacao);
+ }  printf("A divisao e: %d\n", divisao);
