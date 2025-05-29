@@ -25,4 +25,5 @@
     printf("A soma e: %d\n", soma);
     printf("A subtracao e: %d\n", subtracao);
     printf("A multiplicacao e: %d\n", multiplicacao);
- }  printf("A divisao e: %d\n", divisao);
+  printf("A divisao e: %d\n", divisao);
+ }
