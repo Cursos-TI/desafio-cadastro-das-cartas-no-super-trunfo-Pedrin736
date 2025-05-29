@@ -18,7 +18,7 @@
   //numero1 += 1;
  resultado = numero1++;
  //printf("Apos incremento: %d\n", numero1);
-  printf("Apos pos-incremento: %d\n", numero1, resultado);
+  printf("Apos pos-incremento - numero1: %d - resultado: %d\n", numero1, resultado);
 
   //numero1 = numero1 -1;
   //numero1 -= 1;
